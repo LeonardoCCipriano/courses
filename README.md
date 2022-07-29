@@ -19,7 +19,7 @@ Repository of several courses and Mobile and UI Design projects.
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>[Origamid](https://github.com/LeonardoCCipriano/origamid)</b><br>
+        <b>[Origamid](https://https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
         Design and UI/UX Design Courses.
       </td>
       <td>
@@ -35,7 +35,7 @@ Repository of several courses and Mobile and UI Design projects.
         Some Of My Personal Projects.
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/)</b><br>
+        <b>[Projects](https://https://github.com/LeonardoCCipriano/courses/tree/main/projecs)</b><br>
 </table>
     
 <br><br><br>
