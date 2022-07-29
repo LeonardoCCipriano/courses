@@ -35,7 +35,7 @@ Repository of several courses and Mobile and UI Design projects.
         Some Of My Personal Projects.
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projecs)</b><br>
+        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
 </table>
     
 <br><br><br>
