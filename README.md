@@ -1,13 +1,13 @@
-# <b>Cursos e Projetos</b>
-Repositório de diversos cursos e projetos feitos na área de Front-end e UI Design.
+# <b>Courses and Projects</b>
+Repository of several courses and Mobile and UI Design projects.
 <br><br><br>
 
 <table>
   <thead>
     <tr>
-      <th>Curso / Projetos</th>
-      <th>Descrição</th>
-      <th>Ver mais</th>
+      <th>Coursers / Projects</th>
+      <th>Description</th>
+      <th>View More</th>
     </tr>
   </thead>
 
@@ -19,11 +19,11 @@ Repositório de diversos cursos e projetos feitos na área de Front-end e UI Des
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid)</b><br>
-        Curso de Front-end e Web Design.
+        <b>[Origamid](https://github.com/LeonardoCCipriano/origamid)</b><br>
+        Design and UI/UX Design Courses.
       </td>
       <td>
-        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid)</b><br>
+        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/origamid)</b><br>
       </td>
     </tr>
     <tr>
@@ -31,11 +31,11 @@ Repositório de diversos cursos e projetos feitos na área de Front-end e UI Des
 ![Projects](./img/Projects.svg)
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/develop/hora-de-codar)</b><br>
-        Some of my personal projects.
+        <b>[Projects](https://github.com/LeonardoCCipriano/)</b><br>
+        Some Of My Personal Projects.
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/develop/hora-de-codar)</b><br>
+        <b>[Projects](https://github.com/LeonardoCCipriano/)</b><br>
 </table>
     
 <br><br><br>
