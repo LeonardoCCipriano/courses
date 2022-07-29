@@ -31,7 +31,7 @@ Repository of several courses and Mobile and UI Design projects.
 ![Projects](./img/Projects.svg)
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/)</b><br>
+        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
         Some Of My Personal Projects.
       </td>
       <td>
