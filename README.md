@@ -1,11 +1,9 @@
-# <b>Courses and Projects</b>
-Repository of several courses and Mobile and UI Design projects.
-<br><br><br>
-
+## <b>Courses and Projects
+</b>
 <table>
   <thead>
     <tr>
-      <th>Coursers / Projects</th>
+      <th>Course / Projects</th>
       <th>Description</th>
       <th>View More</th>
     </tr>
@@ -14,28 +12,27 @@ Repository of several courses and Mobile and UI Design projects.
   <tbody>
     <tr>
       <td>
-      <td>
-        
+
 ![Projects](./img/Projects.svg)
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
-        Some Of My Personal Projects.
+       <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
+        Some of my personal projects.
       </td>
       <td>
         <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
-
       </td>
     </tr>
     <tr>
-
+      <td>
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>[Origamid](https://https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
-        Design and UI/UX Design Courses.
+        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
+        Curso de Front-end e Web Design.
       </td>
       <td>
-        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/origamid)</b><br>
-        </table>
-    <br><br><br>
+       <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
+      
+</table>
+<br><br><br>
