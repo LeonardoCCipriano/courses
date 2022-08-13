@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td>
-        ![BackFront+](./img/backfront1.svg)
+        ![BackFront+](./img/backfrontlogo.svg)
       </td>
       <td>
        <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/BackFront+)</b><br>
