@@ -21,12 +21,12 @@ Repository of several projects developed during the course at Origamid.
       </td>
       </td>
       <td>
-        <b>[UI Design For Beginners](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid/uidesign)</b><br>
+        <b>[UI Design For Beginners](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid/UIDesignForBeginners)</b><br>
         UI Design course for beginners, covers from the beginning to more advanced subjects such as design guides.
         We used the <b>Figma</b> tool to develop 2 layouts, the first being a <b>Portfolio</b> and the second the <b>Bikcraft</b> site.
       </td>
       <td>
-        [View More](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid/project01)<br>
+        [View More](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid/UIDesignForBeginners)<br>
       </td>
     </tr>
     <tr>
@@ -36,11 +36,11 @@ Repository of several projects developed during the course at Origamid.
 ![Origamid](https://github.com/LeonardoCCipriano/LeonardoCCipriano/blob/main/img/origamid.svg)
       </td>
       <td>
-        <b>[UI Design](https://github.com/DiogoRealles/courses/tree/develop/origamid/project03)</b><br>
-        Curso de Front-end e Web Design
+        <b>[UI/UX Design](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid/webuiux)</b><br>
+        Web, UI/UX Design
       </td>
       <td>
-        [Ver mais](https://github.com/DiogoRealles/courses/tree/develop/origamid/project03)<br>
+        [View More](https://github.com/DiogoRealles/courses/tree/develop/origamid/webuiux)<br>
       </td>
     </tr>
   </tebody>
