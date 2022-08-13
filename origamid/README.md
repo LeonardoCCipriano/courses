@@ -17,7 +17,7 @@ Repository of several projects developed during the course at Origamid.
     <tr>
       <td>
 
-![Origamid](https://raw.githubusercontent.com/DiogoRealles/diogorealles/85a18e420b5b8f4e25f6411ff3e9fd7921419ab9/img/origamid.svg)
+![Origamid](https://github.com/LeonardoCCipriano/LeonardoCCipriano/blob/main/img/origamid.svg)
       </td>
       </td>
       <td>
@@ -33,7 +33,7 @@ Repository of several projects developed during the course at Origamid.
       <td>
 
 
-![Origamid](https://raw.githubusercontent.com/DiogoRealles/diogorealles/85a18e420b5b8f4e25f6411ff3e9fd7921419ab9/img/origamid.svg)
+![Origamid](https://github.com/LeonardoCCipriano/LeonardoCCipriano/blob/main/img/origamid.svg)
       </td>
       <td>
         <b>[UI Design](https://github.com/DiogoRealles/courses/tree/develop/origamid/project03)</b><br>
