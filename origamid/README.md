@@ -21,12 +21,12 @@ Repository of several projects developed during the course at Origamid.
       </td>
       </td>
       <td>
-        <b>[UI Design For Beginners](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid/UIDesignForBeginners)</b><br>
+        <b>[UI Design For Beginners](https://github.com/LeonardoCCipriano/courses/tree/main/origamid/UIDesignForBeginners)</b><br>
         UI Design course for beginners, covers from the beginning to more advanced subjects such as design guides.
         We used the <b>Figma</b> tool to develop 2 layouts, the first being a <b>Portfolio</b> and the second the <b>Bikcraft</b> site.
       </td>
       <td>
-        [View More](https://github.com/LeonardoCCipriano/courses/tree/develop/origamid/UIDesignForBeginners)<br>
+        [View More](https://github.com/LeonardoCCipriano/courses/tree/main/origamid/UIDesignForBeginners)<br>
       </td>
     </tr>
     <tr>
