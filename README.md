@@ -29,7 +29,7 @@
       </td>
       <td>
         <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
-        Curso de Front-end e Web Design.
+        Courses Front-end and Web Design.
       </td>
       <td>
        <b>[Origamid](https://github.com/LeonardoCCipriano/courses/tree/main/origamid)</b><br>
