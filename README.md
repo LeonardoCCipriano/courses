@@ -25,6 +25,19 @@
     </tr>
     <tr>
       <td>
+        ![BackFront+](./img/backfront1.svg)
+      </td>
+      <td>
+       <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/BackFront+)</b><br>
+        Projects developed throughout the learning process.
+      </td>
+      <td>
+        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
