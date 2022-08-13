@@ -28,11 +28,11 @@
         ![BackFront+](./img/backfrontlogo.svg)
       </td>
       <td>
-       <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/BackFront+)</b><br>
+       <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/backfront+)</b><br>
         Projects developed throughout the learning process.
       </td>
       <td>
-        <b>[Projects](https://github.com/LeonardoCCipriano/courses/tree/main/projects)</b><br>
+        <b>[BackFront+](https://github.com/LeonardoCCipriano/courses/tree/main/backfront)</b><br>
       </td>
     </tr>
     <tr>
