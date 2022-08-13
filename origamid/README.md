@@ -36,11 +36,11 @@ Repository of several projects developed during the course at Origamid.
 ![Origamid](https://github.com/LeonardoCCipriano/LeonardoCCipriano/blob/main/img/origamid.svg)
       </td>
       <td>
-        <b>[UI/UX Design](https://github.com/DiogoRealles/courses/tree/develop/origamid/webuiux)</b><br>
+        <b>[UI/UX Design](https://github.com/LeonardoCCipriano/courses/tree/main/origamid/webuiux)</b><br>
         Web, UI/UX Design
       </td>
       <td>
-        [View More](https://github.com/DiogoRealles/courses/tree/develop/origamid/webuiux)<br>
+        [View More](https://github.com/LeonardoCCipriano/courses/tree/main/origamid/webuiux)<br>
       </td>
     </tr>
   </tebody>
