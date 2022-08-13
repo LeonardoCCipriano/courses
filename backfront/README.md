@@ -1,2 +1,2 @@
 ## Loading...
-![Loanding](https://github.com/LeonardoCCipriano/courses/blob/main/backfront/img/Paginabfplus.png)
+![Loanding](https://github.com/LeonardoCCipriano/courses/blob/main/backfront/img/Paginabfplus1.1.png)
