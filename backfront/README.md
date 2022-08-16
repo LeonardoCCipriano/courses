@@ -31,3 +31,7 @@ Click to learn more about this incredible project. Start Now! [BackFront+](https
     </tr>
   </tebody>
 </table>
+
+## <b>BackFront Academy</b>
+With a team passionate about technology, we bring together several professionals who are reference in the market in a team focused on delivering results generating great value for our customers. <b>[BackFrontAcademy](https://backfront.com.br/)</b>
+<br><br><br>
