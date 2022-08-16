@@ -37,7 +37,7 @@ Repository of several projects developed during the course at Origamid.
       </td>
       <td>
         <b>[UI/UX Design](https://github.com/LeonardoCCipriano/courses/tree/main/origamid/webuiux)</b><br>
-        Web, UI/UX Design
+        UI/UX from basic to advanced.
       </td>
       <td>
         [View More](https://github.com/LeonardoCCipriano/courses/tree/main/origamid/webuiux)<br>
