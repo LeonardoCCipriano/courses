@@ -1,4 +1,4 @@
-## <b>Courses and Projects
+## <b>Courses and Projects.
 </b>
 <table>
   <thead>
